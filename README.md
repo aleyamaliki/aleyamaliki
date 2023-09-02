@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aleyamaliki
-- 👀 I’m interested in learning programming languages.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning ReactJS.
 
 <!---
 aleyamaliki/aleyamaliki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
