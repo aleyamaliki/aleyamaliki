@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleyamaliki" alt="aleyamaliki" /></a> </p>
 
-- 🔭 I’m currently working on **Learn Trail project**
+- 🔭 I’m currently working on **Learn Trail and Seafloor Finance project**
 
 - 🌱 I’m currently learning **ReactJS & React Native**
 
