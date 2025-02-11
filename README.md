@@ -65,6 +65,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aleyamaliki/aleyamaliki/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aleyamaliki/aleyamaliki/snake.svg" alt="Snake animation" />
 
 ###
