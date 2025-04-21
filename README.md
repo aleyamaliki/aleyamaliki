@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">💻 I specialize in React.js, Vue.js, Tailwind CSS, and UI/UX design.<br>⚡ I’ve joined 9 hackathons and won 4 of them—I love building cool and innovative projects!<br>🎯 My goal? Master front-end technologies and build innovative projects that solve real-world problems.<br>🎉 Fun fact: I code better when listening to lo-fi beats or arcane soundtracks.</p>
+<p align="left">💻 I specialize in React.js, Tailwind CSS, and UI/UX design.<br>⚡ I’ve joined 9 hackathons and won 4 of them—I love building cool and innovative projects!<br>🎯 My goal? Master front-end technologies and build innovative projects that solve real-world problems.<br>🎉 Fun fact: I code better when listening to lo-fi beats or arcane soundtracks.</p>
 
 ###
 
