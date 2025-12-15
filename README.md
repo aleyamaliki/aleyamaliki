@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">💻 I specialize in React.js, Tailwind CSS, and UI/UX design.<br>⚡ I’ve joined 9 hackathons and won 4 of them—I love building cool and innovative projects!<br>🎯 My goal? Master front-end technologies and build innovative projects that solve real-world problems.<br>🎉 Fun fact: I code better when listening to lo-fi beats or arcane soundtracks.</p>
+<p align="left">💻 Full stack developer <br>⚡ I’ve joined 9 hackathons and won 4 of them—I love building cool and innovative projects!<br>🎉 Fun fact: I have a Princess.</p>
 
 ###
 
@@ -51,9 +51,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
 </div>
 
 ###
