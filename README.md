@@ -1,26 +1,26 @@
 # Hi 👋, I'm Aleya Maliki
 <br />
-### Junior Full Stack Engineer
+## Junior Full Stack Engineer
 <br />
-🔭 I'm currently working on
+### 🔭 I'm currently working on
 <br />
 ** - Full-stack web apps with React Router + Typescript
 - Side projects to sharpen my frontend and backend skills**
 
-🌱 I'm currently learning
+### 🌱 I'm currently learning
 <br />
 ** - Typescript
 - Backend development with PostgreSQL & Prisma
 - Writing cleaner and more maintainable code**
 
-🤝 I'm looking for help with
+### 🤝 I'm looking for help with
 <br />
 **- Learning from experienced developers
 - Improving system design and project structure**
 <br />
-📫 How to reach me **intannuraleya31@gmail.com**
+### 📫 How to reach me **intannuraleya31@gmail.com**
 <br />
-⚡ Fun fact
+### ⚡ Fun fact
 <br />
 **- I have 8 cats
 - Chocolate is my fav**
