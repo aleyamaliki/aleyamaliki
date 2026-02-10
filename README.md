@@ -3,28 +3,24 @@
 ## Junior Full Stack Engineer
 
 ### 🔭 I'm currently working on
-
-** - Full-stack web apps with React Router + Typescript
-- Side projects to sharpen my frontend and backend skills**
+- Full-stack web apps with React Router + Typescript
+- Side projects to sharpen my frontend and backend skills
 
 ### 🌱 I'm currently learning
-
-** - Typescript
+- Typescript
 - Backend development with PostgreSQL & Prisma
-- Writing cleaner and more maintainable code**
+- Writing cleaner and more maintainable code
 
 ### 🤝 I'm looking for help with
-
-**- Learning from experienced developers
-- Improving system design and project structure**
+- Learning from experienced developers
+- Improving system design and project structure
 
 ### 📫 How to reach me **intannuraleya31@gmail.com**
 
 ### ⚡ Fun fact
+- I have 8 cats
+- Chocolate is my fav
 
-**- I have 8 cats
-- Chocolate is my fav**
-- 
 👨‍💻 All of my projects are available at **[https://portfolio-aleya-maliki.pages.dev/](https://portfolio-aleya-maliki.pages.dev/)**
 
 <h3 align="left">Connect with me:</h3>
