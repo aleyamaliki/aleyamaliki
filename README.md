@@ -15,18 +15,18 @@
 - Learning from experienced developers
 - Improving system design and project structure
 
-### 📫 How to reach me **intannuraleya31@gmail.com**
-
 ### ⚡ Fun fact
 - I have 8 cats
 - Chocolate is my fav
+
+📫 How to reach me **intannuraleya31@gmail.com**
 
 👨‍💻 All of my projects are available at **[https://portfolio-aleya-maliki.pages.dev/](https://portfolio-aleya-maliki.pages.dev/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/aleyamaliki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aleyamaliki" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Intan Nur Aleya Maliki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Intan Nur Aleya Maliki" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aleya-maliki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Intan Nur Aleya Maliki" height="30" width="40" /></a>
 <a href="https://twitter.com/aleyamaliki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aleyamaliki" height="30" width="40" /></a>
 </p>
 
